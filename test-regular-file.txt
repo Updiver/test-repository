@@ -1,1 +1,2 @@
 Test regular file content
+This is second change in separated branch
